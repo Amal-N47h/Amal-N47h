@@ -16,11 +16,11 @@
 
 📧 Reach out at [amalnath908@gmail.com](amalnath908@gmail.com) 📲
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Amal-N47h&label=Profile%20views&color=green&style=flat" alt="Amal-N47h" /> </p>
-
 🎸 When not hunting for vulnerabilities, I'm playing my violin or sipping coffee at my favorite café! 🎶☕
 
 Let's chat about cybersecurity, tech, music, or anything under the digital sun! 🌞
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Amal-N47h&label=Profile%20views&color=green&style=flat" alt="Amal-N47h" /> </p>
 
 
 <!---
