@@ -4,8 +4,8 @@
 
 🌱 Currently learning the art of Cyber Security, constantly leveling up my skills in:
    - Web Application Security 🌐
-   - Network Penetration Testing 🌐
-   - Malware Analysis 🦠
+   - API Penetration Testing 🍸
+   - Mobile Application Testing 📱
    - Cryptography 🔐
 
 🚀 Aspiring to become a certified Ethical Hacker and a future Cybersecurity Expert. 🎓
