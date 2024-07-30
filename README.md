@@ -14,7 +14,7 @@
 
 🤝 Open to collaborating on cybersecurity research projects and connecting with fellow enthusiasts.
 
-📧 Reach out at [amalnath908@gmail.com](amalnath908@gmail.com) 📲
+📧 Reach out at [amalnath908@gmail.com](mailto:amalnath908@gmail.com) 📲
 
 🎸 When not hunting for vulnerabilities, I'm playing my violin or sipping coffee at my favorite café! 🎶☕
 
