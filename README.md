@@ -1,4 +1,4 @@
-![none]()
+![none](https://github.com/Amal-N47h/Amal-N47h/blob/main/3HeZ.gif)
 
 👋 Hi, I’m @AmalNath-VS, your friendly neighborhood Cyber Sleuth! 🕵️‍♂️
 
