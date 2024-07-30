@@ -1,5 +1,3 @@
-![none](https://github.com/Amal-N47h/Amal-N47h/blob/main/3HeZ.gif)
-
 👋 Hi, I’m @AmalNath-VS, your friendly neighborhood Cyber Sleuth! 🕵️‍♂️
 
 🔍 I’m on a mission to discover vulnerabilities and make the digital world safer, one line of code at a time. 💻
