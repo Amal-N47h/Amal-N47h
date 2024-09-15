@@ -22,6 +22,7 @@ Let's chat about cybersecurity, tech, music, or anything under the digital sun! 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Amal-N47h&label=Profile%20views&color=green&style=flat" alt="Amal-N47h" /> </p>
 
+<script src="https://tryhackme.com/badge/2130664"></script>
 
 <!---
 AmalNath-VS/AmalNath-VS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
