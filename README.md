@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1000&pause=1000&width=435&height=33&lines=Myself+Amal+Nath)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=1000&color=F75C7D&background=CB81FF00&vCenter=true&width=435&lines=Ethical+Hacker;Penetration+Tester;Bug+Bounty+Hunter)](https://git.io/typing-svg)
 
-👋 Hi, I’m @Amal Nath VS, your friendly neighborhood Cyber Sleuth! 🕵️‍♂️
+👋 Hi, I’m Amal Nath VS, your friendly neighborhood Cyber Sleuth! 🕵️‍♂️
 
 🔍 I’m on a mission to discover vulnerabilities and make the digital world safer, one line of code at a time. 💻
 
